@@ -1,10 +1,10 @@
 # python_development_environment-
-Configurando um ambiente de desenvolvimento python Pyenv + virtualenv + zsh + ohmyzsh no Ubuntu 20.04
+Configurando um ambiente de desenvolvimento Python no Ubuntu 20.04 com: Pyenv + virtualenv + zsh + ohmyzsh.
 
 ### Pyenv
 É um gerenciador de versões de Python, ele facilita a instalação de multiplas versões de python no seu ambiente de desenvolvimento.
 
-#### virtualenv
+### virtualenv
 Permite criar multiplos ambientes virtuais no seu ambiente de desenvolvimento.
 
 Antes de iniciar a instalação prepare o ambiente instalando os seguintes pacotes:
